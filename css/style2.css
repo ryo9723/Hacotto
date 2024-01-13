@@ -123,14 +123,14 @@
 /*========= レイアウトのためのCSS ===============*/
 
 h1 img{
-  width: 200px;
+    width: 200px;
 }
 
 #header{
-  width:100%;
-  background:#FFF;
-  color:#0e1559;
-  text-align: center;
+    width:100%;
+    background:#FFF;
+    color:#0e1559;
+    text-align: center;
 }
 
 section:nth-child(2n){
